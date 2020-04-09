@@ -1,4 +1,3 @@
-	<body>
 		<h1>Highcharts Examples</h1>
 		<h4>Line charts</h4>
 		<ul>
@@ -163,4 +162,3 @@
 			<li><a href="examples/lollipop/index.htm">Lollipop series</a></li>
 			<li><a href="examples/flame/index.htm">Flame series</a></li>
 		</ul>
-	</body>
