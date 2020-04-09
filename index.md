@@ -1,7 +1,7 @@
 		<h1>Highcharts Examples</h1>
 		<h4>Line charts</h4>
 		
-			[Basic line](../examples/line-basic/index.htm)
+			<li><a href="examples/line-basic/index.htm">Basic line</a></li>
 			<li><a href="examples/line-ajax/index.htm">Ajax loaded data, clickable points</a></li>
 			<li><a href="examples/line-labels/index.htm">With data labels</a></li>
 			<li><a href="examples/annotations/index.htm">With annotations</a></li>
